@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# uv
+.python-version
+
+# Flutter / Dart
+FlutterApp/.dart_tool/
+FlutterApp/.flutter-plugins
+FlutterApp/.flutter-plugins-dependencies
+FlutterApp/build/
+FlutterApp/.pub-cache/
+FlutterApp/.pub/
+FlutterApp/**/generated_plugin_registrant.dart
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw survey data -- too large for GitHub, and not needed there.
+# Source is documented in the notebook (NISR Seasonal Agricultural Survey,
+# linked in the Dataset Description section).
+Microdata/
