@@ -7,8 +7,8 @@ import 'package:http/http.dart' as http;
 /// your computer's own localhost. On a real physical phone, neither works;
 /// you must use the deployed Render URL (or your computer's LAN IP).
 class ApiConfig {
-  static const String baseUrl = 'http://127.0.0.1:8000';
-  // static const String baseUrl = 'https://YOUR-APP-NAME.onrender.com'; // switch to this once deployed
+  static const String baseUrl = 'https://terrapredict-api.onrender.com';
+  // static const String baseUrl = 'http://127.0.0.1:8000'; // local testing (Chrome/web)
   // static const String baseUrl = 'http://10.0.2.2:8000'; // local Android emulator testing
 }
 
