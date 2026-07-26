@@ -8,9 +8,9 @@ Rwanda's smallholder farmers plant across three seasons a year with no forward-l
 
 ## Live API
 
-- **Swagger UI:** `https://YOUR-RENDER-URL.onrender.com/docs` *(update once deployed)*
-- **Predict endpoint:** `POST https://YOUR-RENDER-URL.onrender.com/predict`
-- **Retrain endpoint:** `POST https://YOUR-RENDER-URL.onrender.com/retrain` (manual trigger, CSV upload)
+- **Swagger UI:** `https://terrapredict-api.onrender.com/docs`
+- **Predict endpoint:** `POST https://terrapredict-api.onrender.com/predict`
+- **Retrain endpoint:** `POST https://terrapredict-api.onrender.com/retrain` (manual trigger, CSV upload)
 
 ### Example request
 
@@ -37,7 +37,7 @@ Rwanda's smallholder farmers plant across three seasons a year with no forward-l
 
 ## Video Demo
 
-`https://youtu.be/YOUR-VIDEO-ID` *(update once recorded)*
+`https://youtu.be/4_iWtdq2vkU` 
 
 ---
 
